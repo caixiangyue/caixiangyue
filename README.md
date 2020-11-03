@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> hi
 
 <!--
 **caixiangyue/caixiangyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
