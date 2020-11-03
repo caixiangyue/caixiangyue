@@ -29,5 +29,4 @@ if __name__ == "__main__":
     entries_md = "\n".join(
         ["* <a href='{url}' target='_blank'>{title}</a>".format(**entry) for entry in entries]
     )
-
     readme.open('w').writelines(readme_content+entries_md)
