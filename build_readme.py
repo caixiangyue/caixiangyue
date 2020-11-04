@@ -17,9 +17,10 @@ if __name__ == "__main__":
     readme = root / "README.md"
 
     readme_content = """
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> hi
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, Welcome to my page.
 
-![](https://github-readme-stats.vercel.app/api?username=caixiangyue)
+![](https://github-readme-stats.vercel.app/api?username=caixiangyue&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=caixiangyue&count_private=true&layout=compact)
 
 #### 🤹‍♀️ <a href="https://cxy.fun/" target="_blank">Recent Blog</a>
 
