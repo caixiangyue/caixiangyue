@@ -21,7 +21,7 @@ if __name__ == "__main__":
 
 ![](https://github-readme-stats.vercel.app/api?username=caixiangyue&count_private=true)
 
-#### 🤹‍♀️ <a href="https://cxy.fun/" target="_blank">Recent Blog</a>
+#### 🤹‍♀️ <a href="https://caixiangyue.github.io/" target="_blank">Recent Blog</a>
 
 """
 
